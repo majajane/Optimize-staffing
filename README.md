@@ -12,8 +12,11 @@ The goal of this study is to analyze the occupancy data in the e-Library and to 
   
 ## How to access the code
 - Download MATLAB R2025b and Optimization Toolbox (for `linprog`)
-- Open MATLAB
-- Go to the downloaded files containing the CSV
+- Launch MATLAB
+- Go to the files of this repository and click view file
+- Download the raw files (`SEPT.csv`,`NOV.csv`, and `optimize-staffing.m`)
+- Go to the downloaded files and open the MATLAB file
+- Update the path folder in line 4 to where the CSV files are located
 - Run `optimize-staffing.m`
 - Figures will automatically show up
 - Results will appear in the command window
