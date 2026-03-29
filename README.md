@@ -16,8 +16,8 @@ The goal of this study is to analyze the occupancy data in the e-Library and to 
 - Go to the files of this repository and click view file
 - Download the raw files (`SEPT.csv`,`NOV.csv`, and `optimize-staffing.m`)
 - Go to the downloaded files and open the MATLAB file
-- Update the path folder in line 4 to where the CSV files are located
-- Run `optimize-staffing.m`
+- Update the path folder in line 5 to where the CSV files are located
+- Press F5 or go to editor and run `optimize-staffing.m`
 - Figures will automatically show up
 - Results will appear in the command window
 
