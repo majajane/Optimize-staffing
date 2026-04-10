@@ -38,3 +38,16 @@ The goal of this study is to analyze the occupancy data in the e-Library and to 
 	- `optimize-staffing.m` - main MATLAB script
 	- `SEPT.csv` - September occupancy data
 	- `NOV.csv` - November occupancy data
+
+## Author
+- Ablaza, Angelyn T.
+- Cabigao, Kayleigh D.
+- Cawit, Cristine Joy
+- San Juan, Maja Jane N.
+- Villareal, Clarisse S.
+
+Course Output — Mathematical Modeling (Final Course Output)
+
+## License
+
+This project is for academic purposes only.
