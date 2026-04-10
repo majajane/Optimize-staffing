@@ -25,6 +25,14 @@ The goal of this study is to analyze the occupancy data in the e-Library and to 
 	- Current peak staff: 18
 	- Optimal peak staff: 11
 	- Total working hours saved: 50/day (30.9% reduction)
+	
+## Outputs
+
+- **Figures** — Will automatically show up (time series, moving average, rate of change)
+- **Command Window Results** — After running the script, the MATLAB command window will display:
+  - Optimal staff allocation per time block
+  - Total staff required
+  - Busiest periods identified from the e-Library occupancy data
 
 ## Files
 	- `optimize-staffing.m` - main MATLAB script
