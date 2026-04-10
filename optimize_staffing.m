@@ -2,10 +2,11 @@
 clear; clc; close all;
 
 %% load and process data
-folder = 'C:\Users\Maja\Downloads\MM\'; 
-sept_file = [folder 'SEPT.csv']; 
-nov_file = [folder 'NOV.csv'];
+folder = 'C:\Users\Maja\Downloads\MM\'; % folder path where CSV files are stored
+sept_file = [folder 'SEPT.csv']; % September dataset file
+nov_file = [folder 'NOV.csv']; % November dataset file
 
+% list of library sections
 areas = {'Ground Floor', 'Ipad Area', 'Relaxation Room', ...
          'Individual Study Room', 'Laptop Area', 'Smart Device  Zone'};
 
